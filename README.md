@@ -3,7 +3,7 @@ Udacity's Arcade Game
 
 To Play :
 
-Load the game by opening up the Index.html in your preferred browser.
+Download/Clone the repository then load the game by opening up the Index.html in your preferred browser.
 
 Objective:
 
